@@ -62,6 +62,7 @@ CORS_ALLOWED_ORIGINS = [
     'http://localhost:8000',
     'http://127.0.0.1:3000',
     'http://127.0.0.1:8000',
+    'https://website-2u84.onrender.com/api/'
 ]
 
 # Allow any host for development (configure properly for production)
