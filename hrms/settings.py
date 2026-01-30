@@ -60,8 +60,6 @@ CORS_ALLOWED_ORIGINS = [
     'http://localhost:8000',
     'http://127.0.0.1:3000',
     'http://127.0.0.1:8000',
-    'https://hrmslite4.netlify.app/',
-    'https://697bb12b4e69b87ab88ca1f4--hrmslite6.netlify.app/'
 ]
 
 # Allow any host for development (configure properly for production)
