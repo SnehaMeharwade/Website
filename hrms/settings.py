@@ -106,6 +106,7 @@ REST_FRAMEWORK = {
 CORS_ALLOWED_ORIGINS = [
     'http://localhost:3000',  # local frontend for testing
     'http://127.0.0.1:3000',  # local frontend alternate
+    'https://sneha-hrms-lite.vercel.app',
     'https://website-2u84.onrender.com/api/',
     'https://website-9j8y84qn1-snehameharwades-projects.vercel.app',  # your Vercel frontend
 ]
